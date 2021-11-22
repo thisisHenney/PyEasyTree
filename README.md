@@ -1,9 +1,9 @@
 # PyEasyTree
-Easy and Simple QTreeWidget using PyQt4
+- Easy and Simple QTreeWidget using PyQt4
 
-- pip install PyEasyTree (making...)
+  pip install PyEasyTree (making...)
 
-< Structure >
+- Structure
 
   ./NextLib/PyEasyTree
 
