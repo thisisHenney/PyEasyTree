@@ -3,10 +3,10 @@ Easy and Simple QTreeWidget using PyQt4
 
 - pip install PyEasyTree (making...)
 
-Structure
+< Structure >
 
-./NextLib/PyEasyTree
+  ./NextLib/PyEasyTree
 
-./NextLib/cmn.py
+  ./NextLib/cmn.py
 
-./NextLib/qt4.py
+  ./NextLib/qt4.py
