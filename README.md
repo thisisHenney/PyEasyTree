@@ -3,7 +3,7 @@
 
   pip install PyEasyTree (making...)
 
-- Structure
+- Code Structure
 
   ./NextLib/PyEasyTree
 
